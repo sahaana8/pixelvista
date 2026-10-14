@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "6c223136bfa18e91",
+      "name": "Sahaana",
+      "email": "sahaana812@gmail.com",
+      "password": "b8e9b40e0894e243c548990e6f36b4c1:bab1afcfe3e504ec90b3525c8c06434370ce391f4d63c56afe5eba05102c88abb0ed110106fff402e53b89681b33f23ebd23f4e84d16bc39b5bf613699afeff9",
+      "createdAt": "2026-10-14T06:17:57.511Z"
+    }
+  ],
+  "progress": [
+    {
+      "userId": "6c223136bfa18e91",
+      "course": "html",
+      "lesson": "intro",
+      "at": "2026-10-14T06:18:57.928Z"
+    },
+    {
+      "userId": "6c223136bfa18e91",
+      "course": "html",
+      "lesson": "elements",
+      "at": "2026-10-14T06:19:05.640Z"
+    },
+    {
+      "userId": "6c223136bfa18e91",
+      "course": "html",
+      "lesson": "attributes",
+      "at": "2026-10-14T06:19:17.248Z"
+    },
+    {
+      "userId": "6c223136bfa18e91",
+      "course": "html",
+      "lesson": "links-images",
+      "at": "2026-10-14T06:19:20.138Z"
+    },
+    {
+      "userId": "6c223136bfa18e91",
+      "course": "html",
+      "lesson": "lists-tables",
+      "at": "2026-10-14T06:19:24.069Z"
+    },
+    {
+      "userId": "6c223136bfa18e91",
+      "course": "html",
+      "lesson": "forms",
+      "at": "2026-10-14T06:19:27.225Z"
+    }
+  ],
+  "quizResults": [],
+  "messages": [],
+  "subscribers": []
+}
